@@ -1,0 +1,3 @@
+hourOfAi.onStart(function () {
+	
+})
